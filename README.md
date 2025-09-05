@@ -1,12 +1,12 @@
 # I'm THATANATOS  
 
-Firmware Developer |  Hardware Tinkerer |  Gamer |  IoT Enthusiast  
+**Firmware Developer | Hardware Tinkerer | Gamer | IoT Enthusiast**  
 
+I’m a 23-year-old self-taught developer with a strong focus on **IoT, embedded systems, and software development**.  
+I thrive on bringing **hardware and software** together to create solutions that are both practical and innovative.  
 
-I’m a 23-year-old self-taught developer with a strong interest in **IoT, embedded systems, and software development**.  
-I enjoy working on projects that merge **hardware and software** to solve real-world problems and explore new possibilities in technology.  
-Curiosity drives my learning — whether it’s experimenting with microcontrollers, building custom tools, or developing innovative systems, I’m always eager to push my skills further.  
-My long-term goal is to contribute to impactful projects that make technology more accessible, efficient, and meaningful.  
+Driven by curiosity, I constantly explore new tools, experiment with microcontrollers, and build systems that challenge my skills.  
+Looking ahead, my goal is to contribute to projects that make technology more **accessible, efficient, and impactful** in everyday life.  
 
 
 ---
