@@ -1,6 +1,7 @@
-# 👋 Hey, I'm THATANATOS  
+# I'm THATANATOS  
 
-💻 Developer | 🔧 Hardware Tinkerer | 🎮 Gamer | 📱 Flutter & IoT Enthusiast  
+Firmware Developer |  Hardware Tinkerer |  Gamer |  IoT Enthusiast  
+
 
 I’m a 23-year-old self-taught developer with a strong interest in **IoT, embedded systems, and software development**.  
 I enjoy working on projects that merge **hardware and software** to solve real-world problems and explore new possibilities in technology.  
@@ -62,23 +63,11 @@ My long-term goal is to contribute to impactful projects that make technology mo
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-
-
-
-
----
 
 ## 📫 How to Reach Me  
-📧 example@gmail.com (replace with yours)  
+📧 example@gmail.com (low presence | will reply when I can)  
 
 ---
 
-⚡ **Fun fact:** I once built a smart bin that can tell you when it’s full 🚮😆
+ **Fun fact:** I once built a smart bin that can tell you when it’s full 
