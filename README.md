@@ -66,7 +66,7 @@ My long-term goal is to contribute to impactful projects that make technology mo
 
 
 ## 📫 How to Reach Me  
-📧 example@gmail.com (low presence | will reply when I can)  
+📧 Wyrdomadapaka@gmail.com (low presence | will reply when I can)  
 
 ---
 
