@@ -2,7 +2,7 @@
 
 **Firmware Developer | Hardware Tinkerer | Gamer | IoT Enthusiast**  
 
-I’m a 23-year-old self-taught developer specializing in **IoT, embedded systems, and software development**.  
+I’m a 24-year-old self-taught developer specializing in **IoT, embedded systems, and software development**.  
 My work emphasizes **low-level programming, firmware development, and developer tooling**, with a strong commitment to **open-source collaboration and continuous learning**.  
 
 I thrive at the intersection of **hardware and software**, where I design and build solutions that are practical, efficient, and forward-thinking.  
