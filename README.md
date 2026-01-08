@@ -8,16 +8,31 @@ My work emphasizes **low-level programming, firmware development, and developer 
 I thrive at the intersection of **hardware and software**, where I design and build solutions that are practical, efficient, and forward-thinking.  
 My long-term ambition is to contribute to projects that make technology more **accessible, reliable, and impactful**.  
 
+## 🛠️ What I Do  
 
----
+I build **custom hardware devices and firmware** focused on wireless systems, embedded experimentation, and real-world data collection.  
+My work involves designing devices from the ground up, integrating sensors, RF components, and microcontrollers, and developing firmware that operates close to the hardware.  
+It spans **offensive and defensive research**, environmental sensing, and low-level device control, with an emphasis on understanding system behavior, limitations, and security at a fundamental level.
 
-## 🚀 Projects That Define Me  
 
-- 🛰️ **ISS Tracker with TFT Display** – Real-time ISS position tracking on a TFT screen  
-- 🌦️ **API Weather Station** – Weather monitoring system powered by live API data  
-- 📡 **Sniffer** – Network packet sniffer using ESP32 for wireless analysis  
-- 🗑️ **Smart Bin** – IoT-enabled waste disposal system with sensors and indicators 
----
+### Areas of Work  
+- ⚔️ **Wireless Research Devices**  
+ Hardware platforms for deauthentication research, penetration testing, and controlled signal interference experiments.  
+  These devices are used to study wireless protocol behavior, network resilience, and attack surfaces under controlled conditions.  
+  The goal is to understand vulnerabilities, improve defensive strategies, and evaluate how real-world systems respond to stress, misuse, and interference
+  
+- 🌦️ **Weather Station Hardware**  
+  Sensor-based weather monitoring devices using microcontrollers, real-time data acquisition, and external APIs.  
+  These systems collect, process, and visualize environmental data such as temperature, humidity, pressure, and atmospheric conditions, designed for continuous operation and data reliability.
+
+- 🔌 **Embedded & IoT Systems**  
+  Firmware development for ESP32-class devices, sensor integration, displays, and networked telemetry.  
+  Focused on efficient resource usage, stable connectivity, and reliable communication between devices and services.
+
+- 🧪 **Experimental Hardware Builds**  
+  Prototyping custom devices to study system behavior, reliability, and failure modes at the hardware level.  
+  These builds are used to explore edge cases, stress conditions, and design limitations to better understand how embedded systems perform outside ideal scenarios.
+
 
 ## 🛠️ Technical Toolkit  
 
