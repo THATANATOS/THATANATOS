@@ -1,4 +1,4 @@
-#                           I'm THATANATOS  
+#                           I'm JOSH
 
 **Firmware Developer | Hardware Tinkerer | Gamer | IoT Enthusiast**  
 
